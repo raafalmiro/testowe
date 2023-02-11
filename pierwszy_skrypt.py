@@ -1,4 +1,5 @@
 print("Hello world")
 print("Witaj swiecie")
-print("Witaj masterze!")
+print("witaj ficzurze")
+print("witaj ficzurze 2")
 
